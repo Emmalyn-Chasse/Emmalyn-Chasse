@@ -1,7 +1,7 @@
 ## ⭐Welcome⭐
-This account is a portfilo of my work in Digital Studies 101, a critical analysis of how digital media affects culture.
+Hello, I'm Emmalyn Chasse, a junior Media Arts and Design student at James Madison University. This account is a portfolio of my work in Digital Studies 101, a critical analysis of how digital media affects culture.
 
-🔭 I’m currently working on my bachelor's in Media Arts and Design, concentrating on Digital Video and Cinema at James Madison University
+🔭 I’m currently working on my bachelor's in Media Arts and Design, concentrating on Digital Video and Cinema at JMU
 
 💬 Reach out at my [Linkedin](https://www.linkedin.com/in/emmalyn-chasse-262068351/)
 <!--
