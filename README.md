@@ -2,7 +2,7 @@
 This repository is a portfilo of my work in Digital Studies 101, a critical analysis of how digital media affects culture.
 
 🔭 I’m currently working on my bachelor's in Media Arts and Design, concentrating on Digital Video and Cinema at James Madison University
-
+💬 Reach out at my [Linkedin](https://www.linkedin.com/in/emmalyn-chasse-262068351/)
 <!--
 **Emmalyn-Chasse/Emmalyn-Chasse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
