@@ -1,4 +1,5 @@
 ## ⭐Welcome⭐
+This repository is a portfilo of my work in Digital Studies 101, a critical analysis of how digital media affects culture.
 
 <!--
 **Emmalyn-Chasse/Emmalyn-Chasse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
