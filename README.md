@@ -1,5 +1,5 @@
 ## ⭐Welcome⭐
-This repository is a portfilo of my work in Digital Studies 101, a critical analysis of how digital media affects culture.
+This account is a portfilo of my work in Digital Studies 101, a critical analysis of how digital media affects culture.
 
 🔭 I’m currently working on my bachelor's in Media Arts and Design, concentrating on Digital Video and Cinema at James Madison University
 
