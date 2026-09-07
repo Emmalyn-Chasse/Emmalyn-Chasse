@@ -6,6 +6,8 @@ Hello, I'm Emmalyn Chasse, a junior Media Arts and Design student at James Madis
 🌱 I’m interested in photography, videography, and editing, I have skills and experience in communication, social media management, and film.
 
 💬 Reach out at my [Linkedin](https://www.linkedin.com/in/emmalyn-chasse-262068351/)
+
+![JMU Logo](/https://www.pngaaa.com/detail/4018861)
 <!--
 **Emmalyn-Chasse/Emmalyn-Chasse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
