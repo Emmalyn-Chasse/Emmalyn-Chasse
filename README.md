@@ -7,7 +7,8 @@ Hello, I'm Emmalyn Chasse, a junior Media Arts and Design student at James Madis
 
 💬 Reach out at my [Linkedin](https://www.linkedin.com/in/emmalyn-chasse-262068351/)
 
-![JMU Logo](/https://www.pngaaa.com/detail/4018861)
+![JMU Logo](https://www.bing.com/images/search?view=detailV2&ccid=qFuLr36m&id=A79CEA57D1CB9590B8CAF7C818D712B0C6CF3129&thid=OIP.qFuLr36m8B62x68npEE_FwHaEK&mediaurl=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2023%2F03%2FJmu-Emblem.png&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.a85b8baf7ea6f01eb6c7af27a4413f17%3Frik%3DKTHPxrAS1xjI9w%26pid%3DImgRaw%26r%3D0&exph=2160&expw=3840&q=jmu+logo&FORM=IRPRST&ck=F39DF61C64F5731314BE8C232BD1589A&selectedIndex=4&itb=1&cw=741&ch=467&ajaxhist=0&ajaxserp=0)
+
 <!--
 **Emmalyn-Chasse/Emmalyn-Chasse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
